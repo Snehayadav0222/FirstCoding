@@ -12,6 +12,6 @@ public class simple
 			System.out.print(a+" is -ve number");
 			
 		}
-	}
+	}System.out.print("Changes By Swati");
 
 }
